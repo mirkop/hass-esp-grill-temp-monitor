@@ -67,3 +67,8 @@ Pull requests and suggestions are welcome! See `.github/copilot-prompt.md` for p
 ## License
 
 MIT License. See [LICENSE](./LICENSE) if present.
+
+---
+
+> **Disclaimer:**
+> This project is provided "as-is" without any warranty, guarantee of fitness for a particular purpose, or ongoing support. Use at your own risk. The authors and contributors are not responsible for any damages or issues arising from the use of this project.
