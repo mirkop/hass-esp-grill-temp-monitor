@@ -1,0 +1,46 @@
+# ESPHome/HA Grill Monitor .gitignore
+# Ignore Python, ESPHome, VSCode, and OS-specific files
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+venv/
+
+# ESPHome build artifacts
+build/
+.esphome/
+
+# VSCode
+.vscode/
+.code-workspace
+
+# Secrets
+secrets.yaml
+*.secrets.yaml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.bak
+
+# Node/JS (if used for docs or UI)
+node_modules/
+
+# Ignore generated images/diagrams (if any)
+*.png
+*.svg
+
+# Ignore firmware binaries
+*.bin
+*.elf
+*.hex
